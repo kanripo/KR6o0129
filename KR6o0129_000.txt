@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 龍樹菩薩勸誡王頌
+#+DATE: 2015-08-30 21:01:22.616247
+#+PROPERTY: JUAN 0
