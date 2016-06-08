@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:22.410602
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:58
 #+TITLE: 龍樹菩薩勸誡王頌
 #+PROPERTY: CBETA_ID T32n1674
 #+PROPERTY: ID KR6o0129
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1674
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0129_T_000-0751a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0129_T_001-0751a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1674[Nos.1672,1673]¶
-
- 龍樹菩薩勸誡王頌¶
+No. 1674 [Nos. 1672, 1673]¶
+龍樹菩薩勸誡王頌¶
 ¶
 大唐三藏法師義淨譯¶
 
@@ -29,9 +28,9 @@ No.1674[Nos.1672,1673]¶
 「　有情無知覆心故
 　由此興悲為開解¶
 　大德龍樹為國王
-　寄書與彼令修學
+　寄書與彼令修學」
 #+END_VERSE
-」¶
+¶
 
 此一行頌乃是後人所述標書本意也。¶
 
@@ -180,7 +179,7 @@ No.1674[Nos.1672,1673]¶
 　慚愧及正慧¶
 　七財牟尼說
 　共有物誠虛¶
-　博弈樂觀諠雜境
+　博奕樂觀諠雜境
 　嬾惰惡友敦親志¶
 　飲酒非時行六過
 　此劫芳名爾應棄¶
@@ -550,9 +549,9 @@ No.1674[Nos.1672,1673]¶
 　絕流生死登正覺
 <pb:KR6o0129_T_001-0754b>¶
 　超度世間但有名
-　由獲無生離塵濁
+　由獲無生離塵濁」
 #+END_VERSE
-」¶
+¶
 
 阿離野那伽曷樹那菩提薩埵蘇頡里蜜離¶
 佉。了(阿離野是聖。那伽是龍是象。曷樹那義翻為猛。菩提薩埵謂是覺情。蘇頡里即是親密。離佉者書也。先云¶
